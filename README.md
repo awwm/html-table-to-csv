@@ -11,7 +11,7 @@ This Python script converts an HTML table into a CSV file. It extracts data from
 ## How to Use
 
 ### Clone
-- git clone https://github.com/awwmpl/html-table-to-csv.git
+- git clone https://github.com/awwm/html-table-to-csv.git
 
 ### Prerequisites
 
