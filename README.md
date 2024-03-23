@@ -36,3 +36,6 @@ This Python script removes spaces from file names within a specified folder by r
 
 ### Run the script
 - python remove_spaces_from_file_names.py
+
+### Other python scripts
+- As per file names we can use to fix duplicate values or generate csv for woocommerce varibale products.
